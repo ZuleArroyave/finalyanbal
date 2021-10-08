@@ -154,6 +154,25 @@ main section .principal:nth-child(2) div:nth-child(3) figure img{
     width: 100%;
 }
 
+main section .principal:nth-child(2){
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+main section .titulo:nth-child(3){
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'PT Sans', sans-serif;
+
+}
 
 
 /* End estilos del main */
