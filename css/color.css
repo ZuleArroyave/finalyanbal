@@ -177,6 +177,8 @@ main section .titulo:nth-child(3){
 
 /* End estilos del main */
 
+/* estilos contact */
+
 /* Estilos del footer */
 footer{
     width: 100%;
@@ -202,3 +204,41 @@ footer div span{
     font-size: 1.2em;
     text-align: center;
 }
+.fondo1 {
+    background-image:url(https://cdn.pixabay.com/photo/2020/03/09/16/02/silk-4916174_960_720.jpg) ;
+    background-size: cover;
+    display: flex;
+}
+
+.col-1{
+    width: 50%;
+    background-color:white;
+    float: right;
+    opacity: 0.5;
+}
+.col-2{
+    width: 50%;
+    background-color:white;
+    float:left ;
+    opacity: 0.5;
+}
+#producto{
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    padding-left: 150px;
+    
+}
+h1{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 10px;
+}
+form{
+    text-align: center;
+}
+
+
+
+
+
