@@ -177,8 +177,6 @@ main section .titulo:nth-child(3){
 
 /* End estilos del main */
 
-/* estilos contact */
-
 /* Estilos del footer */
 footer{
     width: 100%;
@@ -205,40 +203,8 @@ footer div span{
     text-align: center;
 }
 .fondo1 {
-    background-image:url(https://cdn.pixabay.com/photo/2020/03/09/16/02/silk-4916174_960_720.jpg) ;
+    background-image:url( https://media.istockphoto.com/photos/portrait-of-young-woman-with-clean-fresh-skin-and-soft-delicate-make-picture-id1170771454?k=20&m=1170771454&s=612x612&w=0&h=AgFaWO0aXM1WHj9HCi6L-eeLsm_XAhxs_mdLw7lZ3h4=) ;
     background-size: cover;
     display: flex;
 }
-
-.col-1{
-    width: 50%;
-    background-color:white;
-    float: right;
-    opacity: 0.5;
-}
-.col-2{
-    width: 50%;
-    background-color:white;
-    float:left ;
-    opacity: 0.5;
-}
-#producto{
-    width: 500px;
-    height: 500px;
-    padding: 50px;
-    padding-left: 150px;
-    
-}
-h1{
-    text-align: center;
-    padding-top: 200px;
-    padding-bottom: 10px;
-}
-form{
-    text-align: center;
-}
-
-
-
-
 
